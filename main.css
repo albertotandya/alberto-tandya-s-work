@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #B9C8FA;
+}
+#banner {
+	width: 100%;
+	text-align: center;
+	color: #3E49BD;
+	font-weight: 400;
+	font-size: 300%;
+	text-shadow: 2px 2px #000000;
+	font-family: black-ops-one;
+}
+#navbar {
+	background-color: #3E49BD;
+	font-style: italic;
+	width:100%;
+}
+#navbar ul {
+	color: #FFFFFF;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	margin-bottom: 60px;
+	text-align: right;
+	margin-right:5px;
+}
+#navbar li {
+	display: inline;
+	border-width: thin;
+	margin-right: 1px;
+	margin-left: 1px;
+}
+#navbar ul li a {
+	color: #FFFFFF;
+}
+#navbar ul li a:hover {
+	color: #FBF673;
+}
+#footer {
+	font-style: italic;
+	font-size: 12px;
+	width: 100%;
+	text-align: center;
+	align: bottom;
+}
