@@ -10,3 +10,12 @@
 .content {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 }
+.content img {
+	width: 180px;
+	height: 90px;
+	clear: left;
+	margin-left: 3px;
+	margin-right:5px;
+	margin-top:5px;
+	float: left;
+}
